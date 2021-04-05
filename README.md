@@ -15,6 +15,7 @@ We tried to answer the following questions in this project:
 
 ## Tools
 - R
+- Python
 
 ## Selected Results
 
